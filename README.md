@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Douglas Zuqueto</h1>
+<h1 align="center"> Douglas Zuqueto</h1>
 <h3 align="center">A passionate IoT developer from Brazil</h3>
-
-- 📝 I regularly write articles on [https://douglaszuqueto.com](https://douglaszuqueto.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
